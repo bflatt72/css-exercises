@@ -1,0 +1,19 @@
+.oddElement {
+    background-color: rgb(212, 140, 152);
+    font-family: Verdana, sans-serif;
+}
+
+#numberTwo {
+    color: rgb(24, 24, 224);
+    font-size: 36px;
+}
+
+#numberThree {
+    font-size: 24px;
+}
+
+#numberFour {
+    background-color: rgb(86, 131, 86);
+    font-size: 24px;
+    font-weight: bold;
+}
