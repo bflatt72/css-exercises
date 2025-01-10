@@ -5,7 +5,9 @@
 
 .para.small-para {
   font-size: 12px;
-}
+}05-descendant-combinator
+
+
 
 .para {
   font-size: 22px;
@@ -30,7 +32,7 @@
   font-size: 20px;
 }
 
-.text.child {
+.text .child {
   color: red;
   font-size: 14px;
 }
