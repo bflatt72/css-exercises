@@ -37,7 +37,8 @@ body {
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
-  border-radius: 4px;padding: 16px;
+  border-radius: 4px;
+  padding: 16px;
   margin: 16px;
   width: 300px;
 }
